@@ -22,7 +22,7 @@ export default function App() {
 
         <div className='grid md:grid-cols-3 gap-6'>
           {[
-            'Account Opening',
+            'Account Opening(Central Bank',
             'Cash Deposit',
             'Cash Withdrawal',
             'AEPS Service',
